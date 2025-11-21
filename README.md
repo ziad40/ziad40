@@ -1,7 +1,4 @@
 <!-- Banner (replace the link with your own banner inside the repo) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ziad40/ziad40/main/banner.png" alt="Ziad Abuelkher Banner" />
-</p>
 
 <h1 align="center">Hi, I'm Ziad Abuelkher 👋</h1>
 
