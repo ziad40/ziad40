@@ -10,7 +10,8 @@
 ---
 
 ## 🎯 About Me
-- 🧑‍💻 Software Engineer at **OPTIMIZERS Egypt**
+- 🧑‍💻 Software Engineer at **ART REWARDS**
+- 💡 Previously Software Engineer at **OPTIMIZERS Egypt**
 - 💡 Previously Software Engineer at **ZAD Technology**
 - 🧪 NLP Research Intern at **SRTA-City**
 - 🔥 Passionate about backend engineering, machine learning, and system design  
